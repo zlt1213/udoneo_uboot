@@ -1,0 +1,7 @@
+MX6SXSABRESD BOARD
+M:	Fabio Estevam <zlt1213@gmail.com>
+S:	Maintained
+F:	board/udoo/udooneo/
+F:	include/configs/udooneo.h
+F:	configs/udooneo_defconfig
+F:	configs/udooneo_spl_defconfig

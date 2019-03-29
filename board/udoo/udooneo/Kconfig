@@ -1,0 +1,12 @@
+if TARGET_UDOONEO
+
+config SYS_BOARD
+	default "udooneo"
+
+config SYS_VENDOR
+	default "udoo"
+
+config SYS_CONFIG_NAME
+	default "udooneo"
+
+endif
